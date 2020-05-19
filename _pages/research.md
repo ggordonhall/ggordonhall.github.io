@@ -5,8 +5,8 @@ title: publications
 ---
 
 |-|-|
-| ![paper_imgs](/al-folio/assets/img/ACL2020.png) | <br/><br/>**Gordon-Hall, G.**, Gorinski, P.J., and Cohen, S.B. "Learning Dialog Policies from Weak Demonstrations", in _ACL 2020_. [<a href="https://arxiv.org/pdf/2004.11054.pdf">arxiv</a>] |
-| ![paper_imgs](/al-folio/assets/img/AAAI2020.png) | <br/><br/>**Gordon-Hall, G.**, Gorinski, P.J., Lampouras, G., and Iacobacci, I., "Show Us the Way: Learning to Manage Dialog from Demonstrations", in _The Eight Dialog System Technology Challenge (DSTC-8) at AAAI 2020_ [<a href="https://arxiv.org/pdf/2004.08114.pdf">arxiv</a>] |
+| ![paper_imgs](../assets/img/ACL2020.png) | <br/><br/>**Gordon-Hall, G.**, Gorinski, P.J., and Cohen, S.B. "Learning Dialog Policies from Weak Demonstrations", in _ACL 2020_. [<a href="https://arxiv.org/pdf/2004.11054.pdf">arxiv</a>] |
+| ![paper_imgs](../assets/img/AAAI2020.png) | <br/><br/>**Gordon-Hall, G.**, Gorinski, P.J., Lampouras, G., and Iacobacci, I., "Show Us the Way: Learning to Manage Dialog from Demonstrations", in _The Eight Dialog System Technology Challenge (DSTC-8) at AAAI 2020_ [<a href="https://arxiv.org/pdf/2004.08114.pdf">arxiv</a>] |
 
 ### writing
 
