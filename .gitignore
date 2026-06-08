@@ -5,3 +5,6 @@ _site
 .ruby-version
 Gemfile.lock
 
+.first-tree/tmp/
+.agents/skills/
+.claude/skills/
