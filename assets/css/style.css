@@ -260,10 +260,10 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .border-green-light { border-color: #a2cbac !important; }
 
 /* Use with .border to turn the border red */
-.border-red { border-color: #d73a49 !important; }
+.border-red { border-color: #b45309 !important; }
 
 /* Use with .border to turn the border red-light */
-.border-red-light { border-color: #cea0a5 !important; }
+.border-red-light { border-color: #e0b48a !important; }
 
 /* Use with .border to turn the border purple */
 .border-purple { border-color: #6f42c1 !important; }
@@ -516,10 +516,10 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .bg-green-light { background-color: #dcffe4 !important; }
 
 /* Set the background to $bg-red */
-.bg-red { background-color: #d73a49 !important; }
+.bg-red { background-color: #b45309 !important; }
 
 /* Set the background to $bg-red-light */
-.bg-red-light { background-color: #ffdce0 !important; }
+.bg-red-light { background-color: #fdebd0 !important; }
 
 /* Set the background to $bg-yellow */
 .bg-yellow { background-color: #ffd33d !important; }
@@ -539,7 +539,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .text-blue { color: #0366d6 !important; }
 
 /* Set the text color to $text-red */
-.text-red { color: #cb2431 !important; }
+.text-red { color: #b45309 !important; }
 
 /* Set the text color to $text-gray-light */
 .text-gray-light { color: #6a737d !important; }
@@ -2683,7 +2683,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .markdown-body > *:first-child { margin-top: 0 !important; }
 .markdown-body > *:last-child { margin-bottom: 0 !important; }
 .markdown-body a:not([href]) { color: inherit; text-decoration: none; }
-.markdown-body .absent { color: #cb2431; }
+.markdown-body .absent { color: #b45309; }
 .markdown-body .anchor { float: left; padding-right: 4px; margin-left: -20px; line-height: 1; }
 .markdown-body .anchor:focus { outline: none; }
 .markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre { margin-top: 0; margin-bottom: 16px; }
@@ -2770,13 +2770,13 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 .highlight .c, .highlight .cd { color: #999988; font-style: italic; }
 
-.highlight .err { color: #a61717; background-color: #e3d2d2; }
+.highlight .err { color: #8a5a00; background-color: #f0e6d2; }
 
-.highlight .gd { color: #000000; background-color: #ffdddd; }
+.highlight .gd { color: #000000; background-color: #fdebd0; }
 
 .highlight .ge { color: #000000; font-style: italic; }
 
-.highlight .gr { color: #aa0000; }
+.highlight .gr { color: #b45309; }
 
 .highlight .gh { color: #999999; }
 
@@ -2790,7 +2790,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 .highlight .gu { color: #aaaaaa; }
 
-.highlight .gt { color: #aa0000; }
+.highlight .gt { color: #b45309; }
 
 .highlight .kc { color: #000000; font-weight: bold; }
 
@@ -2856,11 +2856,11 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 
 .highlight .ni { color: #800080; }
 
-.highlight .ne { color: #990000; font-weight: bold; }
+.highlight .ne { color: #8a5a00; font-weight: bold; }
 
-.highlight .nf { color: #990000; font-weight: bold; }
+.highlight .nf { color: #8a5a00; font-weight: bold; }
 
-.highlight .nl { color: #990000; font-weight: bold; }
+.highlight .nl { color: #8a5a00; font-weight: bold; }
 
 .highlight .nn { color: #555555; }
 
